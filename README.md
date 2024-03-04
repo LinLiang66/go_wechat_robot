@@ -29,7 +29,7 @@
 
 
 ## 3 redis 连接信息初始化
-![img_4.png](img_4.png)
+![img_4.png](ttps://github.com/shuaidaodehongshaorou/go_wechat_robot/blob/master/img_4.png)
 
 
 
